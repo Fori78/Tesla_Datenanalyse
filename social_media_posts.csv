@@ -1,0 +1,801 @@
+post_id,platform,post_date,sentiment,reach,topic,content
+0,Twitter,2020-11-02,positive,37138,Technology,Example post content
+1,Reddit,2020-11-02,neutral,59207,Product Launch,Example post content
+2,Twitter,2020-11-03,neutral,348653,CEO News,Example post content
+3,Reddit,2020-11-04,neutral,979112,CEO News,Example post content
+4,Reddit,2020-11-05,positive,598136,Technology,Example post content
+5,Reddit,2020-11-10,positive,461705,Technology,Example post content
+6,YouTube,2020-11-11,positive,361217,Politics,Example post content
+7,Twitter,2020-11-12,positive,242935,Product Launch,Example post content
+8,Twitter,2020-11-12,negative,223782,Politics,Example post content
+9,Twitter,2020-11-13,neutral,803053,Politics,Example post content
+10,Twitter,2020-11-13,negative,323829,Earnings,Example post content
+11,YouTube,2020-11-16,neutral,423270,Product Launch,Example post content
+12,Reddit,2020-11-16,negative,155343,CEO News,Example post content
+13,Reddit,2020-11-16,positive,879395,Product Launch,Example post content
+14,Reddit,2020-11-17,positive,316846,Politics,Example post content
+15,Reddit,2020-11-17,negative,165840,Product Launch,Example post content
+16,Reddit,2020-11-18,neutral,740507,Technology,Example post content
+17,Reddit,2020-11-19,neutral,334546,CEO News,Example post content
+18,YouTube,2020-11-19,negative,73915,Product Launch,Example post content
+19,YouTube,2020-11-23,positive,813278,Technology,Example post content
+20,YouTube,2020-11-30,positive,179492,Product Launch,Example post content
+21,Twitter,2020-12-01,positive,679148,Product Launch,Example post content
+22,Twitter,2020-12-01,positive,576088,Politics,Example post content
+23,YouTube,2020-12-04,positive,212480,CEO News,Example post content
+24,YouTube,2020-12-04,neutral,928286,CEO News,Example post content
+25,Reddit,2020-12-04,negative,651794,Product Launch,Example post content
+26,Reddit,2020-12-16,neutral,836659,Technology,Example post content
+27,Reddit,2020-12-18,neutral,943213,Product Launch,Example post content
+28,YouTube,2020-12-18,negative,142604,CEO News,Example post content
+29,Twitter,2020-12-18,positive,655268,CEO News,Example post content
+30,Twitter,2020-12-29,positive,406418,Earnings,Example post content
+31,YouTube,2021-01-06,neutral,103930,Technology,Example post content
+32,Reddit,2021-01-07,positive,529699,Product Launch,Example post content
+33,YouTube,2021-01-13,positive,658662,Product Launch,Example post content
+34,YouTube,2021-01-19,negative,359091,Technology,Example post content
+35,Reddit,2021-01-20,positive,74675,Product Launch,Example post content
+36,Twitter,2021-01-26,positive,834158,Technology,Example post content
+37,YouTube,2021-01-27,positive,243189,CEO News,Example post content
+38,YouTube,2021-02-02,positive,453035,Technology,Example post content
+39,YouTube,2021-02-03,positive,476320,CEO News,Example post content
+40,Twitter,2021-02-03,positive,159030,Technology,Example post content
+41,Twitter,2021-02-04,neutral,761994,Product Launch,Example post content
+42,YouTube,2021-02-04,neutral,176459,Earnings,Example post content
+43,Twitter,2021-02-05,positive,717757,Technology,Example post content
+44,Reddit,2021-02-05,negative,98927,Earnings,Example post content
+45,Reddit,2021-02-08,positive,955801,Product Launch,Example post content
+46,YouTube,2021-02-12,neutral,387759,Product Launch,Example post content
+47,Reddit,2021-02-12,positive,740035,Politics,Example post content
+48,Twitter,2021-02-15,neutral,528155,Technology,Example post content
+49,Reddit,2021-02-16,negative,808780,Technology,Example post content
+50,Twitter,2021-02-18,positive,956912,CEO News,Example post content
+51,Reddit,2021-02-19,neutral,814366,Earnings,Example post content
+52,YouTube,2021-02-23,positive,450303,Politics,Example post content
+53,YouTube,2021-02-24,positive,185242,Product Launch,Example post content
+54,Reddit,2021-02-26,neutral,466088,Politics,Example post content
+55,Twitter,2021-03-04,positive,921937,Technology,Example post content
+56,Reddit,2021-03-04,neutral,473990,Politics,Example post content
+57,Reddit,2021-03-09,neutral,700014,Product Launch,Example post content
+58,Twitter,2021-03-15,positive,441590,Earnings,Example post content
+59,YouTube,2021-03-16,positive,989161,Technology,Example post content
+60,YouTube,2021-03-17,negative,461133,Technology,Example post content
+61,Twitter,2021-03-17,negative,625454,CEO News,Example post content
+62,Twitter,2021-03-24,negative,49928,CEO News,Example post content
+63,YouTube,2021-03-29,positive,216404,CEO News,Example post content
+64,Twitter,2021-03-30,positive,749654,CEO News,Example post content
+65,Reddit,2021-03-31,positive,630886,CEO News,Example post content
+66,YouTube,2021-04-01,negative,769948,Earnings,Example post content
+67,Reddit,2021-04-01,positive,586253,Product Launch,Example post content
+68,Reddit,2021-04-01,neutral,21146,Politics,Example post content
+69,YouTube,2021-04-01,negative,132313,Earnings,Example post content
+70,YouTube,2021-04-02,neutral,726342,Earnings,Example post content
+71,Twitter,2021-04-02,neutral,374998,Technology,Example post content
+72,YouTube,2021-04-06,neutral,610611,Politics,Example post content
+73,YouTube,2021-04-06,positive,656291,CEO News,Example post content
+74,Reddit,2021-04-08,neutral,973250,Earnings,Example post content
+75,YouTube,2021-04-08,neutral,221625,Politics,Example post content
+76,Reddit,2021-04-09,positive,513523,Product Launch,Example post content
+77,Reddit,2021-04-15,neutral,593220,Earnings,Example post content
+78,Twitter,2021-04-19,positive,383258,Product Launch,Example post content
+79,Reddit,2021-04-20,neutral,800468,CEO News,Example post content
+80,Reddit,2021-04-21,negative,586155,Earnings,Example post content
+81,Reddit,2021-04-21,neutral,385008,CEO News,Example post content
+82,YouTube,2021-04-22,positive,253809,Earnings,Example post content
+83,Reddit,2021-04-23,positive,524520,Politics,Example post content
+84,YouTube,2021-04-27,negative,547352,Technology,Example post content
+85,Twitter,2021-04-30,positive,942279,CEO News,Example post content
+86,Twitter,2021-04-30,neutral,944403,CEO News,Example post content
+87,Reddit,2021-05-03,negative,689053,Earnings,Example post content
+88,Twitter,2021-05-04,positive,154941,Politics,Example post content
+89,Twitter,2021-05-04,negative,758709,Product Launch,Example post content
+90,YouTube,2021-05-04,positive,719602,Technology,Example post content
+91,YouTube,2021-05-05,positive,973740,Technology,Example post content
+92,Twitter,2021-05-06,positive,802819,CEO News,Example post content
+93,YouTube,2021-05-12,neutral,483082,Politics,Example post content
+94,Twitter,2021-05-19,neutral,815629,Earnings,Example post content
+95,YouTube,2021-05-19,positive,314053,CEO News,Example post content
+96,YouTube,2021-05-20,positive,983347,CEO News,Example post content
+97,Twitter,2021-05-25,positive,833772,Technology,Example post content
+98,YouTube,2021-05-28,positive,577516,Politics,Example post content
+99,YouTube,2021-05-31,positive,876271,Politics,Example post content
+100,Reddit,2021-06-03,neutral,327060,Technology,Example post content
+101,YouTube,2021-06-07,positive,846131,CEO News,Example post content
+102,Twitter,2021-06-14,negative,59862,CEO News,Example post content
+103,Twitter,2021-06-18,positive,373118,Product Launch,Example post content
+104,Reddit,2021-06-21,negative,779256,CEO News,Example post content
+105,Reddit,2021-06-21,neutral,927656,Technology,Example post content
+106,Reddit,2021-06-24,positive,55187,CEO News,Example post content
+107,YouTube,2021-06-24,neutral,941952,Technology,Example post content
+108,Reddit,2021-06-30,neutral,249106,Technology,Example post content
+109,Twitter,2021-07-07,neutral,658927,Product Launch,Example post content
+110,Reddit,2021-07-09,neutral,846431,Product Launch,Example post content
+111,Reddit,2021-07-15,neutral,167038,CEO News,Example post content
+112,YouTube,2021-07-16,positive,242693,CEO News,Example post content
+113,YouTube,2021-07-19,positive,419872,Politics,Example post content
+114,Twitter,2021-07-19,positive,606678,Product Launch,Example post content
+115,Reddit,2021-07-20,neutral,151718,Earnings,Example post content
+116,Twitter,2021-07-20,neutral,341921,Technology,Example post content
+117,YouTube,2021-07-20,negative,205599,Politics,Example post content
+118,YouTube,2021-07-21,negative,238469,Technology,Example post content
+119,Reddit,2021-07-23,positive,572053,Product Launch,Example post content
+120,Twitter,2021-07-26,neutral,300917,Politics,Example post content
+121,YouTube,2021-07-28,positive,123594,Earnings,Example post content
+122,YouTube,2021-07-29,positive,447957,Earnings,Example post content
+123,YouTube,2021-08-02,neutral,299029,Technology,Example post content
+124,Reddit,2021-08-02,negative,708365,Politics,Example post content
+125,Twitter,2021-08-03,negative,243965,Product Launch,Example post content
+126,YouTube,2021-08-04,positive,259056,Politics,Example post content
+127,Reddit,2021-08-04,neutral,144904,Earnings,Example post content
+128,YouTube,2021-08-04,positive,543051,CEO News,Example post content
+129,Twitter,2021-08-05,positive,360853,Earnings,Example post content
+130,Reddit,2021-08-10,neutral,252355,Product Launch,Example post content
+131,Twitter,2021-08-16,positive,547223,Product Launch,Example post content
+132,YouTube,2021-08-16,positive,857020,Technology,Example post content
+133,YouTube,2021-08-17,neutral,683986,Technology,Example post content
+134,Reddit,2021-08-17,positive,212121,Earnings,Example post content
+135,YouTube,2021-08-24,positive,20278,CEO News,Example post content
+136,Reddit,2021-08-24,positive,721673,Politics,Example post content
+137,Twitter,2021-08-31,positive,126602,Politics,Example post content
+138,Reddit,2021-09-02,neutral,943506,Politics,Example post content
+139,YouTube,2021-09-02,positive,885153,Earnings,Example post content
+140,Reddit,2021-09-03,neutral,294484,Technology,Example post content
+141,YouTube,2021-09-06,positive,957108,Product Launch,Example post content
+142,Reddit,2021-09-07,neutral,45468,Product Launch,Example post content
+143,Twitter,2021-09-09,positive,827099,Product Launch,Example post content
+144,Twitter,2021-09-09,positive,622308,Technology,Example post content
+145,YouTube,2021-09-13,positive,955953,Product Launch,Example post content
+146,YouTube,2021-09-13,positive,877445,Earnings,Example post content
+147,Twitter,2021-09-20,positive,86795,Earnings,Example post content
+148,Twitter,2021-09-21,positive,200031,Earnings,Example post content
+149,YouTube,2021-09-21,neutral,633169,Technology,Example post content
+150,Twitter,2021-09-21,neutral,668548,CEO News,Example post content
+151,YouTube,2021-09-27,neutral,716790,Technology,Example post content
+152,Twitter,2021-09-28,positive,767479,Earnings,Example post content
+153,Reddit,2021-09-29,negative,465180,Product Launch,Example post content
+154,Reddit,2021-09-30,positive,784831,Earnings,Example post content
+155,YouTube,2021-10-01,neutral,310388,Earnings,Example post content
+156,YouTube,2021-10-01,positive,400759,Politics,Example post content
+157,Reddit,2021-10-04,neutral,329381,Earnings,Example post content
+158,YouTube,2021-10-07,positive,52745,Product Launch,Example post content
+159,Twitter,2021-10-11,negative,885805,CEO News,Example post content
+160,Twitter,2021-10-20,positive,917764,Product Launch,Example post content
+161,YouTube,2021-10-21,neutral,384314,CEO News,Example post content
+162,Twitter,2021-10-21,positive,696960,CEO News,Example post content
+163,Reddit,2021-10-25,neutral,398047,Product Launch,Example post content
+164,YouTube,2021-10-25,neutral,367574,CEO News,Example post content
+165,Twitter,2021-10-26,negative,847928,Earnings,Example post content
+166,YouTube,2021-10-28,positive,284858,Politics,Example post content
+167,Twitter,2021-11-01,positive,387987,Technology,Example post content
+168,Reddit,2021-11-01,negative,615928,Technology,Example post content
+169,Reddit,2021-11-03,negative,787780,Earnings,Example post content
+170,YouTube,2021-11-04,positive,344946,Technology,Example post content
+171,YouTube,2021-11-05,negative,276466,Politics,Example post content
+172,Twitter,2021-11-05,neutral,530427,Technology,Example post content
+173,Reddit,2021-11-09,positive,464948,Product Launch,Example post content
+174,Reddit,2021-11-09,neutral,514138,Politics,Example post content
+175,Twitter,2021-11-11,positive,864177,Technology,Example post content
+176,Twitter,2021-11-12,positive,178233,Technology,Example post content
+177,Twitter,2021-11-15,negative,282241,Technology,Example post content
+178,YouTube,2021-11-15,negative,815954,Earnings,Example post content
+179,Reddit,2021-11-17,neutral,314335,CEO News,Example post content
+180,Reddit,2021-11-17,positive,880684,Product Launch,Example post content
+181,Reddit,2021-11-19,positive,859052,Politics,Example post content
+182,YouTube,2021-11-22,positive,325350,CEO News,Example post content
+183,Twitter,2021-11-22,neutral,229634,Politics,Example post content
+184,YouTube,2021-11-23,positive,690521,Technology,Example post content
+185,YouTube,2021-11-30,positive,984052,Earnings,Example post content
+186,YouTube,2021-11-30,negative,68070,Technology,Example post content
+187,Reddit,2021-11-30,neutral,316756,Politics,Example post content
+188,Reddit,2021-12-02,negative,303362,Technology,Example post content
+189,Reddit,2021-12-03,neutral,941631,Earnings,Example post content
+190,Twitter,2021-12-03,positive,90998,CEO News,Example post content
+191,Twitter,2021-12-06,negative,39929,Technology,Example post content
+192,YouTube,2021-12-06,neutral,769167,Technology,Example post content
+193,Reddit,2021-12-07,positive,42944,Product Launch,Example post content
+194,YouTube,2021-12-07,neutral,557685,Politics,Example post content
+195,Twitter,2021-12-09,neutral,23318,Product Launch,Example post content
+196,Reddit,2021-12-09,neutral,235999,Earnings,Example post content
+197,YouTube,2021-12-14,neutral,607323,CEO News,Example post content
+198,Twitter,2021-12-15,neutral,108898,CEO News,Example post content
+199,YouTube,2021-12-23,positive,168156,Earnings,Example post content
+200,Twitter,2021-12-23,positive,160404,Technology,Example post content
+201,YouTube,2021-12-24,positive,897429,Politics,Example post content
+202,YouTube,2021-12-28,positive,549711,CEO News,Example post content
+203,YouTube,2021-12-29,negative,586718,Product Launch,Example post content
+204,YouTube,2022-01-03,positive,695397,Product Launch,Example post content
+205,Twitter,2022-01-04,neutral,793483,Politics,Example post content
+206,YouTube,2022-01-05,negative,617793,Technology,Example post content
+207,Reddit,2022-01-05,negative,503161,Earnings,Example post content
+208,YouTube,2022-01-06,positive,294503,Earnings,Example post content
+209,Reddit,2022-01-07,positive,901837,Product Launch,Example post content
+210,Reddit,2022-01-07,positive,637317,Product Launch,Example post content
+211,YouTube,2022-01-10,positive,261737,Technology,Example post content
+212,Reddit,2022-01-10,neutral,330628,Technology,Example post content
+213,YouTube,2022-01-18,negative,189065,Product Launch,Example post content
+214,Twitter,2022-01-21,negative,551396,Politics,Example post content
+215,YouTube,2022-01-24,positive,847529,Earnings,Example post content
+216,Twitter,2022-01-25,positive,463342,CEO News,Example post content
+217,Twitter,2022-01-25,negative,897852,Earnings,Example post content
+218,Twitter,2022-01-26,neutral,937229,Politics,Example post content
+219,Twitter,2022-01-27,neutral,333977,Politics,Example post content
+220,Reddit,2022-01-28,neutral,890839,CEO News,Example post content
+221,Reddit,2022-01-31,positive,14520,CEO News,Example post content
+222,Twitter,2022-02-01,positive,522814,Technology,Example post content
+223,Reddit,2022-02-08,neutral,809572,Politics,Example post content
+224,Twitter,2022-02-10,positive,881718,CEO News,Example post content
+225,Twitter,2022-02-14,positive,446124,CEO News,Example post content
+226,Twitter,2022-02-14,positive,138584,Technology,Example post content
+227,Twitter,2022-02-14,neutral,390291,CEO News,Example post content
+228,Reddit,2022-02-16,neutral,557500,CEO News,Example post content
+229,YouTube,2022-02-17,positive,158433,Earnings,Example post content
+230,Reddit,2022-02-18,negative,417274,Product Launch,Example post content
+231,Reddit,2022-02-18,positive,388277,Technology,Example post content
+232,YouTube,2022-02-21,neutral,266819,CEO News,Example post content
+233,YouTube,2022-02-21,positive,41705,CEO News,Example post content
+234,YouTube,2022-02-23,negative,444023,Product Launch,Example post content
+235,Twitter,2022-02-28,negative,886497,Earnings,Example post content
+236,YouTube,2022-02-28,neutral,530678,Politics,Example post content
+237,YouTube,2022-03-01,positive,31321,Product Launch,Example post content
+238,Twitter,2022-03-01,positive,531948,Technology,Example post content
+239,Reddit,2022-03-03,negative,189985,Technology,Example post content
+240,YouTube,2022-03-03,positive,183099,Politics,Example post content
+241,Reddit,2022-03-08,positive,360063,Product Launch,Example post content
+242,Reddit,2022-03-10,neutral,174278,Politics,Example post content
+243,YouTube,2022-03-11,positive,310365,CEO News,Example post content
+244,YouTube,2022-03-14,neutral,455121,Product Launch,Example post content
+245,Reddit,2022-03-17,positive,602628,Product Launch,Example post content
+246,Twitter,2022-03-18,neutral,39156,Product Launch,Example post content
+247,Reddit,2022-03-18,negative,621926,Technology,Example post content
+248,YouTube,2022-03-22,positive,833735,CEO News,Example post content
+249,Reddit,2022-03-22,positive,897794,CEO News,Example post content
+250,Twitter,2022-03-24,negative,900516,Earnings,Example post content
+251,Reddit,2022-03-24,positive,860961,Product Launch,Example post content
+252,Twitter,2022-03-25,positive,382732,Earnings,Example post content
+253,Twitter,2022-03-28,positive,928404,Politics,Example post content
+254,Twitter,2022-03-28,positive,319338,Product Launch,Example post content
+255,Twitter,2022-03-29,positive,314296,Politics,Example post content
+256,YouTube,2022-03-31,negative,358202,CEO News,Example post content
+257,Reddit,2022-04-05,positive,364957,Technology,Example post content
+258,Reddit,2022-04-05,negative,889441,Product Launch,Example post content
+259,Reddit,2022-04-05,positive,930144,Technology,Example post content
+260,Reddit,2022-04-06,positive,202989,CEO News,Example post content
+261,YouTube,2022-04-06,neutral,574212,Product Launch,Example post content
+262,YouTube,2022-04-11,positive,795157,Product Launch,Example post content
+263,Reddit,2022-04-13,negative,829136,Technology,Example post content
+264,Twitter,2022-04-15,negative,386952,Politics,Example post content
+265,Reddit,2022-04-18,neutral,601501,Product Launch,Example post content
+266,YouTube,2022-04-20,neutral,410765,Politics,Example post content
+267,Reddit,2022-04-25,positive,628211,CEO News,Example post content
+268,Reddit,2022-04-25,positive,909465,Politics,Example post content
+269,Reddit,2022-04-28,positive,506256,Product Launch,Example post content
+270,Reddit,2022-05-04,negative,840807,Politics,Example post content
+271,Twitter,2022-05-09,positive,710737,CEO News,Example post content
+272,Reddit,2022-05-10,neutral,496365,Politics,Example post content
+273,Reddit,2022-05-12,neutral,141853,CEO News,Example post content
+274,Twitter,2022-05-12,positive,636600,Politics,Example post content
+275,Reddit,2022-05-17,neutral,821191,CEO News,Example post content
+276,YouTube,2022-05-17,neutral,309258,Earnings,Example post content
+277,YouTube,2022-05-18,positive,942616,Product Launch,Example post content
+278,Reddit,2022-05-23,negative,582898,Politics,Example post content
+279,YouTube,2022-05-23,neutral,441933,Politics,Example post content
+280,Reddit,2022-05-25,negative,597763,Product Launch,Example post content
+281,Twitter,2022-05-26,neutral,611062,CEO News,Example post content
+282,Reddit,2022-05-30,positive,68939,Technology,Example post content
+283,YouTube,2022-05-31,positive,796974,Technology,Example post content
+284,Reddit,2022-05-31,positive,148182,CEO News,Example post content
+285,YouTube,2022-05-31,neutral,902786,CEO News,Example post content
+286,YouTube,2022-06-01,positive,342614,Politics,Example post content
+287,YouTube,2022-06-03,neutral,71090,Politics,Example post content
+288,Reddit,2022-06-03,negative,67010,Earnings,Example post content
+289,Twitter,2022-06-07,positive,476957,Technology,Example post content
+290,Twitter,2022-06-07,positive,447890,Product Launch,Example post content
+291,YouTube,2022-06-07,positive,655848,CEO News,Example post content
+292,Reddit,2022-06-08,positive,173465,Product Launch,Example post content
+293,YouTube,2022-06-08,negative,389980,Technology,Example post content
+294,YouTube,2022-06-20,negative,660416,Product Launch,Example post content
+295,Twitter,2022-06-21,positive,535757,Product Launch,Example post content
+296,Reddit,2022-06-21,positive,935553,Politics,Example post content
+297,Reddit,2022-06-21,positive,168152,Politics,Example post content
+298,Twitter,2022-06-24,negative,484628,Product Launch,Example post content
+299,Reddit,2022-06-27,positive,876138,Politics,Example post content
+300,Twitter,2022-06-28,positive,328646,Earnings,Example post content
+301,Twitter,2022-06-30,positive,232687,Technology,Example post content
+302,YouTube,2022-06-30,negative,114672,Product Launch,Example post content
+303,Reddit,2022-07-05,positive,368611,Technology,Example post content
+304,Twitter,2022-07-05,negative,177976,Earnings,Example post content
+305,YouTube,2022-07-05,negative,850407,CEO News,Example post content
+306,Reddit,2022-07-05,positive,425254,Earnings,Example post content
+307,Reddit,2022-07-06,neutral,95822,Technology,Example post content
+308,YouTube,2022-07-06,negative,965312,Earnings,Example post content
+309,Reddit,2022-07-08,neutral,853490,Technology,Example post content
+310,YouTube,2022-07-08,positive,358617,Earnings,Example post content
+311,YouTube,2022-07-14,negative,220957,Politics,Example post content
+312,YouTube,2022-07-14,negative,460642,Earnings,Example post content
+313,Reddit,2022-07-18,negative,672714,CEO News,Example post content
+314,YouTube,2022-07-19,neutral,931888,Earnings,Example post content
+315,YouTube,2022-07-19,positive,342116,Product Launch,Example post content
+316,Twitter,2022-07-20,positive,837421,CEO News,Example post content
+317,Twitter,2022-07-22,positive,830107,Earnings,Example post content
+318,YouTube,2022-07-27,positive,423474,Product Launch,Example post content
+319,Reddit,2022-08-11,negative,649655,Politics,Example post content
+320,YouTube,2022-08-15,neutral,617086,CEO News,Example post content
+321,Twitter,2022-08-16,negative,712648,Technology,Example post content
+322,Twitter,2022-08-22,positive,203588,Technology,Example post content
+323,Reddit,2022-08-23,neutral,525596,Technology,Example post content
+324,Reddit,2022-08-24,positive,679986,Earnings,Example post content
+325,Reddit,2022-08-29,neutral,324875,Politics,Example post content
+326,YouTube,2022-08-30,positive,637580,Product Launch,Example post content
+327,Twitter,2022-08-31,negative,393810,CEO News,Example post content
+328,Twitter,2022-09-01,positive,783042,CEO News,Example post content
+329,Reddit,2022-09-08,neutral,177920,Technology,Example post content
+330,Reddit,2022-09-13,positive,701439,Product Launch,Example post content
+331,YouTube,2022-09-13,neutral,718256,CEO News,Example post content
+332,YouTube,2022-09-16,neutral,190275,CEO News,Example post content
+333,YouTube,2022-09-16,negative,88087,Product Launch,Example post content
+334,Reddit,2022-09-19,positive,266048,CEO News,Example post content
+335,Twitter,2022-09-19,positive,847401,Product Launch,Example post content
+336,Reddit,2022-09-21,neutral,581375,CEO News,Example post content
+337,Reddit,2022-09-21,positive,701177,Product Launch,Example post content
+338,Twitter,2022-09-22,neutral,994516,Technology,Example post content
+339,Twitter,2022-09-23,negative,580291,Politics,Example post content
+340,Reddit,2022-09-27,neutral,61022,Product Launch,Example post content
+341,Twitter,2022-10-03,positive,640789,Technology,Example post content
+342,YouTube,2022-10-03,neutral,787185,Product Launch,Example post content
+343,Twitter,2022-10-03,positive,59785,CEO News,Example post content
+344,YouTube,2022-10-10,neutral,453080,Product Launch,Example post content
+345,YouTube,2022-10-20,positive,904911,Politics,Example post content
+346,Twitter,2022-10-24,neutral,326094,Product Launch,Example post content
+347,Reddit,2022-10-26,positive,359005,Technology,Example post content
+348,YouTube,2022-10-26,positive,137341,Politics,Example post content
+349,Reddit,2022-10-26,negative,799709,CEO News,Example post content
+350,Reddit,2022-10-31,positive,477880,Product Launch,Example post content
+351,YouTube,2022-10-31,neutral,927132,CEO News,Example post content
+352,Twitter,2022-11-02,positive,353826,Technology,Example post content
+353,Reddit,2022-11-03,positive,616331,Earnings,Example post content
+354,YouTube,2022-11-14,positive,176095,Politics,Example post content
+355,Reddit,2022-11-18,neutral,361286,Technology,Example post content
+356,Reddit,2022-11-18,neutral,275732,Product Launch,Example post content
+357,Reddit,2022-11-21,neutral,675009,Politics,Example post content
+358,Twitter,2022-11-21,negative,931427,CEO News,Example post content
+359,YouTube,2022-11-21,positive,450492,CEO News,Example post content
+360,Reddit,2022-11-25,negative,9403,Politics,Example post content
+361,Reddit,2022-11-28,neutral,449646,Earnings,Example post content
+362,Reddit,2022-11-30,negative,440470,Earnings,Example post content
+363,Twitter,2022-11-30,positive,744419,Product Launch,Example post content
+364,YouTube,2022-11-30,positive,806532,Technology,Example post content
+365,Twitter,2022-12-05,neutral,451578,Product Launch,Example post content
+366,Twitter,2022-12-07,neutral,777657,Product Launch,Example post content
+367,Twitter,2022-12-12,negative,983091,Technology,Example post content
+368,Twitter,2022-12-12,neutral,358862,Politics,Example post content
+369,YouTube,2022-12-13,positive,368098,Product Launch,Example post content
+370,YouTube,2022-12-13,negative,218924,Politics,Example post content
+371,Reddit,2022-12-14,neutral,628382,Product Launch,Example post content
+372,Reddit,2022-12-15,positive,865773,CEO News,Example post content
+373,Reddit,2022-12-16,neutral,867232,Politics,Example post content
+374,Reddit,2022-12-16,negative,613311,Politics,Example post content
+375,Reddit,2022-12-19,neutral,333000,Product Launch,Example post content
+376,Twitter,2022-12-21,negative,146792,Politics,Example post content
+377,Reddit,2022-12-26,positive,613058,Product Launch,Example post content
+378,Twitter,2022-12-27,neutral,377222,Earnings,Example post content
+379,Twitter,2022-12-28,positive,490895,Technology,Example post content
+380,Twitter,2022-12-30,positive,898068,Product Launch,Example post content
+381,Twitter,2022-12-30,positive,960174,Earnings,Example post content
+382,Twitter,2023-01-04,neutral,163462,Technology,Example post content
+383,Reddit,2023-01-06,neutral,990520,CEO News,Example post content
+384,YouTube,2023-01-10,positive,642410,Product Launch,Example post content
+385,YouTube,2023-01-10,positive,580948,Earnings,Example post content
+386,YouTube,2023-01-12,neutral,762485,Earnings,Example post content
+387,Reddit,2023-01-16,positive,640511,Product Launch,Example post content
+388,Reddit,2023-01-18,positive,826125,Technology,Example post content
+389,YouTube,2023-01-18,positive,608761,Technology,Example post content
+390,Reddit,2023-01-20,neutral,315900,Earnings,Example post content
+391,YouTube,2023-01-23,negative,528543,Earnings,Example post content
+392,YouTube,2023-01-24,positive,160516,CEO News,Example post content
+393,Twitter,2023-01-24,positive,151466,Product Launch,Example post content
+394,Reddit,2023-02-01,neutral,533275,CEO News,Example post content
+395,Twitter,2023-02-01,positive,728924,Technology,Example post content
+396,Twitter,2023-02-01,negative,382353,Technology,Example post content
+397,Twitter,2023-02-03,negative,339415,Product Launch,Example post content
+398,YouTube,2023-02-03,negative,272511,Technology,Example post content
+399,Twitter,2023-02-03,neutral,94110,Product Launch,Example post content
+400,Twitter,2023-02-06,neutral,185724,Product Launch,Example post content
+401,Reddit,2023-02-15,negative,916739,Product Launch,Example post content
+402,YouTube,2023-02-15,positive,903886,Politics,Example post content
+403,Reddit,2023-02-17,neutral,812355,Earnings,Example post content
+404,YouTube,2023-02-21,neutral,912760,Earnings,Example post content
+405,YouTube,2023-02-22,negative,359575,Product Launch,Example post content
+406,YouTube,2023-02-27,neutral,480382,Politics,Example post content
+407,Twitter,2023-02-28,negative,569653,Politics,Example post content
+408,Reddit,2023-03-01,neutral,801809,Earnings,Example post content
+409,Reddit,2023-03-01,negative,931970,Earnings,Example post content
+410,Twitter,2023-03-01,neutral,740270,CEO News,Example post content
+411,Twitter,2023-03-03,positive,716268,Product Launch,Example post content
+412,Twitter,2023-03-08,positive,744313,Product Launch,Example post content
+413,Twitter,2023-03-10,positive,878441,Technology,Example post content
+414,Twitter,2023-03-14,positive,760364,Politics,Example post content
+415,Reddit,2023-03-20,neutral,642027,Product Launch,Example post content
+416,Reddit,2023-03-20,neutral,518331,Technology,Example post content
+417,Twitter,2023-03-22,positive,937753,CEO News,Example post content
+418,Twitter,2023-03-29,positive,794246,CEO News,Example post content
+419,Twitter,2023-03-29,positive,708850,Politics,Example post content
+420,Reddit,2023-04-03,neutral,272991,CEO News,Example post content
+421,Reddit,2023-04-04,positive,77441,Technology,Example post content
+422,Reddit,2023-04-11,negative,858660,CEO News,Example post content
+423,YouTube,2023-04-14,positive,900311,Politics,Example post content
+424,YouTube,2023-04-20,positive,960046,Politics,Example post content
+425,Twitter,2023-04-26,negative,259839,CEO News,Example post content
+426,Twitter,2023-05-01,negative,472417,Technology,Example post content
+427,YouTube,2023-05-01,neutral,515087,Product Launch,Example post content
+428,Reddit,2023-05-10,negative,78737,Politics,Example post content
+429,Reddit,2023-05-11,neutral,939671,Earnings,Example post content
+430,YouTube,2023-05-15,positive,112847,Earnings,Example post content
+431,YouTube,2023-05-16,negative,193009,Earnings,Example post content
+432,YouTube,2023-05-19,positive,811193,Technology,Example post content
+433,Twitter,2023-05-22,negative,318861,Politics,Example post content
+434,YouTube,2023-05-23,positive,742929,Product Launch,Example post content
+435,YouTube,2023-05-23,negative,619030,Politics,Example post content
+436,YouTube,2023-05-24,negative,947901,Earnings,Example post content
+437,Twitter,2023-05-25,neutral,616322,CEO News,Example post content
+438,Twitter,2023-05-26,negative,386192,Earnings,Example post content
+439,YouTube,2023-05-29,positive,476929,Product Launch,Example post content
+440,YouTube,2023-05-30,positive,951039,CEO News,Example post content
+441,Reddit,2023-05-30,neutral,157552,CEO News,Example post content
+442,Twitter,2023-06-01,positive,986334,Earnings,Example post content
+443,YouTube,2023-06-05,positive,564773,CEO News,Example post content
+444,Twitter,2023-06-08,positive,33244,Earnings,Example post content
+445,YouTube,2023-06-08,neutral,385059,Product Launch,Example post content
+446,Twitter,2023-06-12,neutral,626868,Politics,Example post content
+447,Twitter,2023-06-12,neutral,906350,Product Launch,Example post content
+448,Twitter,2023-06-12,positive,132429,Politics,Example post content
+449,Reddit,2023-06-19,positive,213359,Product Launch,Example post content
+450,Reddit,2023-06-22,positive,337704,Product Launch,Example post content
+451,Reddit,2023-06-23,positive,486628,CEO News,Example post content
+452,Twitter,2023-06-23,negative,526400,Product Launch,Example post content
+453,Reddit,2023-06-26,negative,314382,CEO News,Example post content
+454,Twitter,2023-06-26,negative,290512,Politics,Example post content
+455,Reddit,2023-07-03,negative,334571,Earnings,Example post content
+456,Reddit,2023-07-05,positive,82379,Politics,Example post content
+457,YouTube,2023-07-06,neutral,133962,Politics,Example post content
+458,Reddit,2023-07-07,neutral,244173,Product Launch,Example post content
+459,Twitter,2023-07-12,neutral,770188,Technology,Example post content
+460,Twitter,2023-07-17,positive,197597,CEO News,Example post content
+461,YouTube,2023-07-20,positive,957965,Politics,Example post content
+462,Reddit,2023-07-21,positive,628760,Technology,Example post content
+463,YouTube,2023-07-24,neutral,456304,CEO News,Example post content
+464,YouTube,2023-07-26,positive,442617,Technology,Example post content
+465,Reddit,2023-08-01,negative,272413,Technology,Example post content
+466,Reddit,2023-08-01,positive,606035,Earnings,Example post content
+467,YouTube,2023-08-01,positive,8784,Product Launch,Example post content
+468,Twitter,2023-08-01,positive,677131,Product Launch,Example post content
+469,Reddit,2023-08-03,negative,813917,Earnings,Example post content
+470,Twitter,2023-08-03,neutral,89880,Technology,Example post content
+471,Twitter,2023-08-07,positive,339791,Politics,Example post content
+472,YouTube,2023-08-10,positive,457722,Politics,Example post content
+473,Twitter,2023-08-17,neutral,781706,Earnings,Example post content
+474,Twitter,2023-08-18,positive,111072,CEO News,Example post content
+475,Twitter,2023-08-18,positive,793113,CEO News,Example post content
+476,YouTube,2023-08-21,positive,808474,Politics,Example post content
+477,Twitter,2023-08-21,neutral,30172,Product Launch,Example post content
+478,Reddit,2023-08-22,positive,169238,Earnings,Example post content
+479,Reddit,2023-08-23,positive,535117,Technology,Example post content
+480,Reddit,2023-08-28,negative,296790,Politics,Example post content
+481,Reddit,2023-08-28,neutral,822963,Earnings,Example post content
+482,Reddit,2023-08-31,positive,541228,Technology,Example post content
+483,YouTube,2023-09-01,positive,727703,CEO News,Example post content
+484,Twitter,2023-09-05,negative,225794,Politics,Example post content
+485,YouTube,2023-09-05,negative,968429,Product Launch,Example post content
+486,YouTube,2023-09-05,negative,405019,CEO News,Example post content
+487,YouTube,2023-09-06,negative,501270,Technology,Example post content
+488,Twitter,2023-09-11,positive,678810,CEO News,Example post content
+489,Twitter,2023-09-12,positive,868377,Earnings,Example post content
+490,Reddit,2023-09-18,neutral,625284,Technology,Example post content
+491,YouTube,2023-09-18,positive,537426,CEO News,Example post content
+492,YouTube,2023-09-19,negative,107211,Product Launch,Example post content
+493,Twitter,2023-09-19,positive,971478,Product Launch,Example post content
+494,YouTube,2023-09-21,neutral,455808,Politics,Example post content
+495,Twitter,2023-09-21,negative,638508,Earnings,Example post content
+496,Reddit,2023-09-22,positive,266812,Product Launch,Example post content
+497,YouTube,2023-09-26,neutral,702484,Technology,Example post content
+498,Reddit,2023-09-28,positive,853133,CEO News,Example post content
+499,YouTube,2023-09-29,positive,981906,CEO News,Example post content
+500,Twitter,2023-10-04,positive,813842,Earnings,Example post content
+501,Twitter,2023-10-04,neutral,103116,Politics,Example post content
+502,YouTube,2023-10-06,neutral,332069,Earnings,Example post content
+503,YouTube,2023-10-06,negative,354472,Product Launch,Example post content
+504,Reddit,2023-10-09,positive,833448,Technology,Example post content
+505,Reddit,2023-10-10,negative,47356,Earnings,Example post content
+506,Reddit,2023-10-10,negative,637904,Earnings,Example post content
+507,Reddit,2023-10-11,positive,116621,Technology,Example post content
+508,YouTube,2023-10-11,neutral,401789,Technology,Example post content
+509,Twitter,2023-10-20,negative,796322,Politics,Example post content
+510,Reddit,2023-10-20,negative,354942,Technology,Example post content
+511,Reddit,2023-10-20,neutral,170885,Product Launch,Example post content
+512,Twitter,2023-10-24,negative,883112,Politics,Example post content
+513,YouTube,2023-10-25,neutral,881033,Product Launch,Example post content
+514,YouTube,2023-10-25,negative,990547,CEO News,Example post content
+515,Reddit,2023-10-31,positive,871075,CEO News,Example post content
+516,Twitter,2023-11-01,positive,384654,Politics,Example post content
+517,Twitter,2023-11-02,positive,638291,CEO News,Example post content
+518,Reddit,2023-11-06,negative,66571,Product Launch,Example post content
+519,Twitter,2023-11-06,neutral,690531,Technology,Example post content
+520,Reddit,2023-11-07,positive,829372,Earnings,Example post content
+521,Twitter,2023-11-09,negative,681492,Product Launch,Example post content
+522,YouTube,2023-11-10,positive,699088,Technology,Example post content
+523,YouTube,2023-11-13,negative,518712,Product Launch,Example post content
+524,Reddit,2023-11-16,positive,402472,Earnings,Example post content
+525,YouTube,2023-11-20,negative,892722,CEO News,Example post content
+526,Reddit,2023-12-05,neutral,198628,CEO News,Example post content
+527,YouTube,2023-12-05,positive,536208,CEO News,Example post content
+528,YouTube,2023-12-05,positive,102900,Technology,Example post content
+529,Twitter,2023-12-06,neutral,312477,Product Launch,Example post content
+530,Twitter,2023-12-11,positive,453658,Technology,Example post content
+531,Reddit,2023-12-12,positive,828699,Earnings,Example post content
+532,YouTube,2023-12-13,neutral,400778,Politics,Example post content
+533,Twitter,2023-12-14,negative,194065,Earnings,Example post content
+534,Twitter,2023-12-14,negative,729530,Product Launch,Example post content
+535,Reddit,2023-12-15,positive,574861,CEO News,Example post content
+536,YouTube,2023-12-20,positive,36238,CEO News,Example post content
+537,YouTube,2023-12-21,positive,279061,Product Launch,Example post content
+538,YouTube,2023-12-21,positive,927644,Technology,Example post content
+539,Reddit,2023-12-25,positive,348254,Politics,Example post content
+540,Twitter,2023-12-25,neutral,220911,Politics,Example post content
+541,Twitter,2023-12-29,positive,603867,Earnings,Example post content
+542,YouTube,2024-01-02,positive,301588,Earnings,Example post content
+543,Reddit,2024-01-02,negative,575776,Earnings,Example post content
+544,Reddit,2024-01-05,positive,659304,Politics,Example post content
+545,YouTube,2024-01-10,positive,424377,Technology,Example post content
+546,Reddit,2024-01-11,neutral,173956,Politics,Example post content
+547,Reddit,2024-01-15,negative,645094,CEO News,Example post content
+548,Twitter,2024-01-15,negative,696297,Product Launch,Example post content
+549,Twitter,2024-01-16,negative,734246,Earnings,Example post content
+550,YouTube,2024-01-17,positive,627027,Politics,Example post content
+551,Twitter,2024-01-18,neutral,520630,Product Launch,Example post content
+552,Reddit,2024-01-19,neutral,286808,CEO News,Example post content
+553,Reddit,2024-01-22,neutral,473723,Politics,Example post content
+554,Reddit,2024-01-23,positive,690264,CEO News,Example post content
+555,Twitter,2024-01-25,positive,912051,Technology,Example post content
+556,YouTube,2024-01-30,positive,304009,Earnings,Example post content
+557,Reddit,2024-02-01,negative,716952,Earnings,Example post content
+558,YouTube,2024-02-02,positive,85945,Technology,Example post content
+559,Reddit,2024-02-13,neutral,752155,Earnings,Example post content
+560,Twitter,2024-02-15,negative,316773,CEO News,Example post content
+561,Twitter,2024-02-16,positive,201114,Politics,Example post content
+562,Twitter,2024-02-20,positive,399557,Product Launch,Example post content
+563,Twitter,2024-02-20,positive,676319,Technology,Example post content
+564,Twitter,2024-02-20,neutral,898943,Earnings,Example post content
+565,Twitter,2024-02-21,positive,90277,Earnings,Example post content
+566,Reddit,2024-02-21,positive,235037,CEO News,Example post content
+567,YouTube,2024-02-21,positive,259336,Earnings,Example post content
+568,Twitter,2024-02-22,positive,481950,Product Launch,Example post content
+569,Twitter,2024-02-27,neutral,976616,CEO News,Example post content
+570,Reddit,2024-02-29,positive,317172,Politics,Example post content
+571,Reddit,2024-03-05,neutral,106070,CEO News,Example post content
+572,Twitter,2024-03-05,positive,729529,Earnings,Example post content
+573,Twitter,2024-03-06,neutral,740673,Technology,Example post content
+574,Twitter,2024-03-11,positive,272407,CEO News,Example post content
+575,YouTube,2024-03-12,positive,311492,Politics,Example post content
+576,Reddit,2024-03-13,positive,855910,Technology,Example post content
+577,YouTube,2024-03-15,neutral,350056,CEO News,Example post content
+578,Reddit,2024-03-18,positive,184523,Earnings,Example post content
+579,Reddit,2024-03-21,neutral,697003,Product Launch,Example post content
+580,Reddit,2024-03-27,positive,82286,Politics,Example post content
+581,Twitter,2024-03-27,neutral,618266,Product Launch,Example post content
+582,Reddit,2024-04-01,negative,703967,Technology,Example post content
+583,Reddit,2024-04-03,positive,373345,Technology,Example post content
+584,Twitter,2024-04-03,positive,692058,Earnings,Example post content
+585,Reddit,2024-04-04,positive,199531,Politics,Example post content
+586,Twitter,2024-04-04,positive,125248,CEO News,Example post content
+587,Reddit,2024-04-05,negative,71616,Product Launch,Example post content
+588,YouTube,2024-04-09,neutral,557007,CEO News,Example post content
+589,YouTube,2024-04-10,positive,257327,Earnings,Example post content
+590,Reddit,2024-04-11,positive,405308,Earnings,Example post content
+591,Reddit,2024-04-12,negative,409943,Technology,Example post content
+592,Twitter,2024-04-19,neutral,673631,Technology,Example post content
+593,Twitter,2024-04-19,negative,292288,Earnings,Example post content
+594,Twitter,2024-04-23,positive,320711,Earnings,Example post content
+595,YouTube,2024-04-23,positive,438861,Technology,Example post content
+596,YouTube,2024-04-26,neutral,184688,Politics,Example post content
+597,Reddit,2024-04-29,positive,301008,Technology,Example post content
+598,Twitter,2024-04-30,positive,676049,Earnings,Example post content
+599,Reddit,2024-04-30,neutral,638586,Politics,Example post content
+600,Reddit,2024-05-02,neutral,235061,Earnings,Example post content
+601,Twitter,2024-05-08,neutral,542898,CEO News,Example post content
+602,YouTube,2024-05-09,positive,595459,Politics,Example post content
+603,Reddit,2024-05-09,negative,911803,Earnings,Example post content
+604,Reddit,2024-05-10,positive,213415,CEO News,Example post content
+605,Twitter,2024-05-10,positive,307653,Earnings,Example post content
+606,Reddit,2024-05-13,neutral,802705,CEO News,Example post content
+607,YouTube,2024-05-13,positive,971677,Politics,Example post content
+608,Twitter,2024-05-14,positive,74082,Product Launch,Example post content
+609,Reddit,2024-05-15,neutral,424424,Product Launch,Example post content
+610,Reddit,2024-05-15,neutral,698880,Politics,Example post content
+611,YouTube,2024-05-16,negative,84850,Technology,Example post content
+612,YouTube,2024-05-20,positive,492950,Earnings,Example post content
+613,Reddit,2024-05-21,neutral,652997,Politics,Example post content
+614,Reddit,2024-05-21,neutral,914932,Politics,Example post content
+615,Reddit,2024-05-22,positive,190490,Technology,Example post content
+616,Reddit,2024-05-24,neutral,665841,Technology,Example post content
+617,Reddit,2024-05-28,positive,834084,CEO News,Example post content
+618,Twitter,2024-05-30,neutral,131799,Politics,Example post content
+619,YouTube,2024-06-11,neutral,754908,Product Launch,Example post content
+620,YouTube,2024-06-11,neutral,874428,Earnings,Example post content
+621,Reddit,2024-06-12,positive,878028,Politics,Example post content
+622,YouTube,2024-06-13,negative,357186,CEO News,Example post content
+623,YouTube,2024-06-18,neutral,450073,CEO News,Example post content
+624,Reddit,2024-06-21,positive,271311,Product Launch,Example post content
+625,Reddit,2024-06-28,positive,430008,Politics,Example post content
+626,YouTube,2024-07-02,positive,984494,Earnings,Example post content
+627,YouTube,2024-07-03,positive,5121,Technology,Example post content
+628,Twitter,2024-07-03,positive,79429,Technology,Example post content
+629,Reddit,2024-07-03,positive,371573,Politics,Example post content
+630,YouTube,2024-07-05,positive,716787,Technology,Example post content
+631,Reddit,2024-07-05,positive,167586,Technology,Example post content
+632,Twitter,2024-07-12,neutral,74043,Product Launch,Example post content
+633,YouTube,2024-07-15,neutral,409845,Technology,Example post content
+634,YouTube,2024-07-17,positive,486300,Product Launch,Example post content
+635,Twitter,2024-07-19,positive,486386,CEO News,Example post content
+636,Reddit,2024-07-25,positive,836750,Politics,Example post content
+637,YouTube,2024-07-26,positive,930767,CEO News,Example post content
+638,YouTube,2024-07-30,positive,663975,Technology,Example post content
+639,Twitter,2024-08-06,negative,384012,CEO News,Example post content
+640,YouTube,2024-08-08,neutral,836728,Product Launch,Example post content
+641,Twitter,2024-08-08,positive,796783,Product Launch,Example post content
+642,YouTube,2024-08-12,negative,347063,CEO News,Example post content
+643,YouTube,2024-08-15,positive,945119,Politics,Example post content
+644,Reddit,2024-08-19,positive,392783,Earnings,Example post content
+645,Twitter,2024-08-20,negative,345417,Politics,Example post content
+646,Reddit,2024-08-22,negative,632331,Politics,Example post content
+647,YouTube,2024-08-27,positive,493891,CEO News,Example post content
+648,Reddit,2024-08-27,positive,751332,CEO News,Example post content
+649,Reddit,2024-08-28,positive,377373,Product Launch,Example post content
+650,Reddit,2024-08-30,positive,507634,Product Launch,Example post content
+651,YouTube,2024-09-02,neutral,112694,Technology,Example post content
+652,Reddit,2024-09-02,positive,897411,Product Launch,Example post content
+653,YouTube,2024-09-03,positive,594562,Earnings,Example post content
+654,Reddit,2024-09-03,neutral,829121,Politics,Example post content
+655,YouTube,2024-09-03,positive,959087,Politics,Example post content
+656,Twitter,2024-09-03,neutral,419914,Technology,Example post content
+657,Twitter,2024-09-04,negative,335602,Politics,Example post content
+658,Twitter,2024-09-04,positive,620034,Product Launch,Example post content
+659,Reddit,2024-09-04,positive,321723,Technology,Example post content
+660,YouTube,2024-09-11,negative,687231,Earnings,Example post content
+661,YouTube,2024-09-12,neutral,502003,Earnings,Example post content
+662,Twitter,2024-09-13,positive,992253,Politics,Example post content
+663,YouTube,2024-09-17,negative,868770,Politics,Example post content
+664,Reddit,2024-09-17,positive,641205,Earnings,Example post content
+665,Reddit,2024-09-19,positive,237831,Earnings,Example post content
+666,Reddit,2024-09-19,positive,561682,Product Launch,Example post content
+667,Twitter,2024-09-26,neutral,123711,CEO News,Example post content
+668,Twitter,2024-09-30,positive,739171,Politics,Example post content
+669,YouTube,2024-09-30,negative,844205,Politics,Example post content
+670,Reddit,2024-10-09,neutral,531924,Technology,Example post content
+671,YouTube,2024-10-09,positive,222479,Politics,Example post content
+672,Reddit,2024-10-14,positive,578653,CEO News,Example post content
+673,Twitter,2024-10-16,positive,474991,Politics,Example post content
+674,Reddit,2024-10-17,negative,288686,CEO News,Example post content
+675,Twitter,2024-10-23,positive,946217,CEO News,Example post content
+676,YouTube,2024-10-28,positive,893973,Technology,Example post content
+677,YouTube,2024-10-31,negative,721504,Product Launch,Example post content
+678,Reddit,2024-11-01,negative,550551,Earnings,Example post content
+679,Twitter,2024-11-01,neutral,615689,Earnings,Example post content
+680,Twitter,2024-11-04,positive,352572,Product Launch,Example post content
+681,Twitter,2024-11-05,positive,759992,Politics,Example post content
+682,Reddit,2024-11-06,positive,487133,Product Launch,Example post content
+683,YouTube,2024-11-07,positive,862338,Technology,Example post content
+684,Reddit,2024-11-11,positive,576451,Product Launch,Example post content
+685,Twitter,2024-11-12,neutral,302638,Politics,Example post content
+686,YouTube,2024-11-14,positive,964397,Product Launch,Example post content
+687,YouTube,2024-11-14,neutral,525552,CEO News,Example post content
+688,Twitter,2024-11-19,neutral,256489,Technology,Example post content
+689,Twitter,2024-11-19,negative,903173,Earnings,Example post content
+690,Reddit,2024-11-19,neutral,843356,CEO News,Example post content
+691,YouTube,2024-11-22,positive,418173,Politics,Example post content
+692,Reddit,2024-11-28,positive,615785,CEO News,Example post content
+693,YouTube,2024-12-02,positive,654797,Product Launch,Example post content
+694,Twitter,2024-12-05,positive,211638,Politics,Example post content
+695,Reddit,2024-12-10,positive,447612,Earnings,Example post content
+696,Twitter,2024-12-12,neutral,130561,Product Launch,Example post content
+697,YouTube,2024-12-16,positive,173611,Technology,Example post content
+698,YouTube,2024-12-17,neutral,568245,CEO News,Example post content
+699,YouTube,2024-12-18,positive,80574,Technology,Example post content
+700,Twitter,2024-12-19,neutral,272755,Politics,Example post content
+701,YouTube,2024-12-20,neutral,589973,Technology,Example post content
+702,Reddit,2024-12-27,neutral,603539,Earnings,Example post content
+703,YouTube,2024-12-31,positive,491799,Product Launch,Example post content
+704,YouTube,2024-12-31,negative,440172,CEO News,Example post content
+705,Twitter,2025-01-02,positive,665707,Earnings,Example post content
+706,Twitter,2025-01-09,positive,375329,CEO News,Example post content
+707,Reddit,2025-01-09,neutral,194719,Earnings,Example post content
+708,Twitter,2025-01-09,negative,472588,Technology,Example post content
+709,Reddit,2025-01-10,negative,983317,Technology,Example post content
+710,YouTube,2025-01-13,negative,889582,Politics,Example post content
+711,Twitter,2025-01-13,positive,512047,Politics,Example post content
+712,Twitter,2025-01-14,negative,787118,Technology,Example post content
+713,Twitter,2025-01-14,positive,783566,Politics,Example post content
+714,Twitter,2025-01-16,negative,593636,Politics,Example post content
+715,Twitter,2025-01-16,positive,393673,Earnings,Example post content
+716,Twitter,2025-01-24,neutral,429312,Politics,Example post content
+717,Reddit,2025-01-27,positive,26411,CEO News,Example post content
+718,Twitter,2025-01-29,negative,410144,Product Launch,Example post content
+719,Twitter,2025-01-30,neutral,124830,Product Launch,Example post content
+720,Reddit,2025-02-04,neutral,234477,Earnings,Example post content
+721,Reddit,2025-02-07,neutral,645405,CEO News,Example post content
+722,YouTube,2025-02-12,positive,998053,Technology,Example post content
+723,Twitter,2025-02-17,positive,579444,Earnings,Example post content
+724,Reddit,2025-02-17,positive,660545,Politics,Example post content
+725,Twitter,2025-02-20,neutral,453034,Earnings,Example post content
+726,Reddit,2025-02-24,neutral,572137,Politics,Example post content
+727,Twitter,2025-02-24,negative,393901,Technology,Example post content
+728,Twitter,2025-02-27,negative,46840,CEO News,Example post content
+729,Reddit,2025-02-27,neutral,795758,Product Launch,Example post content
+730,Twitter,2025-02-27,positive,460489,Earnings,Example post content
+731,Twitter,2025-02-28,neutral,687883,Product Launch,Example post content
+732,Reddit,2025-02-28,neutral,824557,Earnings,Example post content
+733,Reddit,2025-03-06,neutral,380360,Technology,Example post content
+734,Twitter,2025-03-07,positive,949759,Earnings,Example post content
+735,Reddit,2025-03-11,positive,182023,Technology,Example post content
+736,YouTube,2025-03-18,positive,598489,Earnings,Example post content
+737,YouTube,2025-03-21,neutral,240488,Earnings,Example post content
+738,Reddit,2025-03-24,neutral,858077,Politics,Example post content
+739,YouTube,2025-03-26,negative,44436,Product Launch,Example post content
+740,YouTube,2025-03-31,positive,998321,CEO News,Example post content
+741,YouTube,2025-04-02,positive,976747,Technology,Example post content
+742,YouTube,2025-04-07,positive,532218,Politics,Example post content
+743,Reddit,2025-04-14,positive,53178,CEO News,Example post content
+744,Reddit,2025-04-14,positive,795789,Politics,Example post content
+745,Reddit,2025-04-14,positive,476131,Technology,Example post content
+746,Reddit,2025-04-18,positive,58340,CEO News,Example post content
+747,Reddit,2025-04-23,neutral,586740,Product Launch,Example post content
+748,Reddit,2025-04-25,negative,849045,CEO News,Example post content
+749,Twitter,2025-04-25,positive,856468,Politics,Example post content
+750,Reddit,2025-04-25,positive,62498,Politics,Example post content
+751,Reddit,2025-04-28,neutral,683342,CEO News,Example post content
+752,Twitter,2025-04-29,positive,884030,Politics,Example post content
+753,Twitter,2025-05-01,positive,700421,Technology,Example post content
+754,YouTube,2025-05-02,neutral,284545,Product Launch,Example post content
+755,YouTube,2025-05-12,positive,87373,CEO News,Example post content
+756,Twitter,2025-05-14,negative,234896,Product Launch,Example post content
+757,YouTube,2025-05-15,positive,25676,Politics,Example post content
+758,Reddit,2025-05-15,negative,902098,Politics,Example post content
+759,Twitter,2025-05-19,positive,267324,CEO News,Example post content
+760,YouTube,2025-05-21,positive,838322,Product Launch,Example post content
+761,Reddit,2025-05-23,positive,725068,Technology,Example post content
+762,Twitter,2025-05-27,neutral,297748,Politics,Example post content
+763,YouTube,2025-05-28,neutral,692352,CEO News,Example post content
+764,Twitter,2025-05-29,positive,598930,Technology,Example post content
+765,Reddit,2025-05-29,neutral,301465,Product Launch,Example post content
+766,YouTube,2025-06-03,positive,510852,Politics,Example post content
+767,YouTube,2025-06-10,neutral,369233,Product Launch,Example post content
+768,Reddit,2025-06-11,neutral,402861,Earnings,Example post content
+769,YouTube,2025-06-12,neutral,167928,Technology,Example post content
+770,YouTube,2025-06-12,positive,832521,Earnings,Example post content
+771,YouTube,2025-06-16,negative,166089,Earnings,Example post content
+772,Twitter,2025-06-17,positive,320798,Earnings,Example post content
+773,YouTube,2025-06-19,positive,213355,Politics,Example post content
+774,Reddit,2025-06-20,neutral,187438,Technology,Example post content
+775,Reddit,2025-06-24,positive,315594,Product Launch,Example post content
+776,Reddit,2025-06-24,positive,580694,Politics,Example post content
+777,Twitter,2025-06-24,positive,734849,Earnings,Example post content
+778,Twitter,2025-06-25,negative,86503,Earnings,Example post content
+779,YouTube,2025-06-25,neutral,388096,Product Launch,Example post content
+780,Twitter,2025-06-30,neutral,540915,Earnings,Example post content
+781,Twitter,2025-06-30,positive,184020,Technology,Example post content
+782,YouTube,2025-07-01,positive,580824,Product Launch,Example post content
+783,Twitter,2025-07-02,positive,680807,Politics,Example post content
+784,Reddit,2025-07-03,positive,800696,CEO News,Example post content
+785,Reddit,2025-07-08,positive,72326,Technology,Example post content
+786,Reddit,2025-07-14,negative,519827,Earnings,Example post content
+787,Twitter,2025-07-16,negative,378504,Earnings,Example post content
+788,YouTube,2025-07-17,negative,204667,Earnings,Example post content
+789,Twitter,2025-07-17,positive,115172,Product Launch,Example post content
+790,YouTube,2025-07-18,positive,962790,Earnings,Example post content
+791,YouTube,2025-07-18,positive,229676,Politics,Example post content
+792,YouTube,2025-07-21,positive,459416,Politics,Example post content
+793,Reddit,2025-07-21,negative,109451,Earnings,Example post content
+794,Reddit,2025-07-22,positive,811058,Politics,Example post content
+795,Twitter,2025-07-23,positive,776898,Technology,Example post content
+796,Reddit,2025-07-24,neutral,992868,Technology,Example post content
+797,YouTube,2025-07-29,positive,98787,CEO News,Example post content
+798,YouTube,2025-07-31,neutral,866393,Technology,Example post content
+799,YouTube,2025-07-31,positive,665647,Product Launch,Example post content

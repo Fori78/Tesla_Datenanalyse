@@ -1,0 +1,201 @@
+article_id,media_type,publish_date,sentiment,topic,reach_estimate,content
+0,Reuters,2020-11-09,neutral,Technology,123741,Example article content
+1,NY Times,2020-11-12,positive,Technology,496980,Example article content
+2,Forbes,2020-11-20,positive,CEO News,37517,Example article content
+3,Reuters,2020-12-01,neutral,CEO News,246896,Example article content
+4,CNBC,2020-12-01,positive,CEO News,101505,Example article content
+5,CNBC,2020-12-02,negative,Technology,198059,Example article content
+6,Forbes,2021-01-12,neutral,Product Launch,375637,Example article content
+7,CNBC,2021-01-15,neutral,Politics,69807,Example article content
+8,Forbes,2021-01-15,neutral,Product Launch,154914,Example article content
+9,CNBC,2021-01-19,neutral,Product Launch,5046,Example article content
+10,CNBC,2021-01-20,negative,Politics,453429,Example article content
+11,Forbes,2021-01-29,negative,Technology,33632,Example article content
+12,Forbes,2021-02-23,negative,Technology,122799,Example article content
+13,Forbes,2021-02-25,positive,CEO News,58079,Example article content
+14,Forbes,2021-03-05,positive,Earnings,300594,Example article content
+15,NY Times,2021-03-15,negative,Product Launch,83183,Example article content
+16,CNBC,2021-03-24,neutral,Politics,116115,Example article content
+17,CNBC,2021-04-06,positive,Earnings,498962,Example article content
+18,Reuters,2021-04-14,neutral,CEO News,271159,Example article content
+19,Reuters,2021-04-19,negative,Product Launch,134967,Example article content
+20,Reuters,2021-05-03,positive,Technology,396450,Example article content
+21,Forbes,2021-05-10,positive,Technology,301120,Example article content
+22,Reuters,2021-05-20,neutral,Product Launch,46645,Example article content
+23,Forbes,2021-05-27,positive,Product Launch,190935,Example article content
+24,Forbes,2021-05-31,neutral,Politics,335047,Example article content
+25,Forbes,2021-06-23,neutral,Politics,477612,Example article content
+26,CNBC,2021-06-30,neutral,Product Launch,352619,Example article content
+27,NY Times,2021-07-05,neutral,Politics,269795,Example article content
+28,NY Times,2021-07-08,positive,Politics,237813,Example article content
+29,NY Times,2021-07-23,neutral,CEO News,231354,Example article content
+30,Forbes,2021-08-03,positive,Earnings,290171,Example article content
+31,Forbes,2021-08-09,positive,Politics,71578,Example article content
+32,Reuters,2021-08-10,positive,Technology,293151,Example article content
+33,TechCrunch,2021-08-13,positive,Earnings,23963,Example article content
+34,CNBC,2021-08-23,neutral,Politics,315231,Example article content
+35,TechCrunch,2021-08-24,negative,Technology,337433,Example article content
+36,Forbes,2021-09-01,neutral,Politics,219424,Example article content
+37,Forbes,2021-09-03,positive,CEO News,325647,Example article content
+38,Forbes,2021-09-08,neutral,Earnings,498530,Example article content
+39,Forbes,2021-09-15,positive,Politics,468462,Example article content
+40,Forbes,2021-09-27,positive,Technology,87770,Example article content
+41,TechCrunch,2021-10-06,positive,CEO News,391499,Example article content
+42,NY Times,2021-10-15,neutral,CEO News,14003,Example article content
+43,Forbes,2021-11-05,neutral,Politics,281354,Example article content
+44,TechCrunch,2021-11-29,positive,Politics,208845,Example article content
+45,TechCrunch,2021-11-30,neutral,Product Launch,205055,Example article content
+46,TechCrunch,2021-12-03,positive,Product Launch,367579,Example article content
+47,Reuters,2021-12-10,negative,Earnings,406156,Example article content
+48,CNBC,2021-12-28,neutral,Earnings,311736,Example article content
+49,Forbes,2022-01-17,positive,CEO News,269170,Example article content
+50,NY Times,2022-01-19,negative,CEO News,335892,Example article content
+51,Forbes,2022-01-24,positive,Politics,499274,Example article content
+52,TechCrunch,2022-02-04,neutral,CEO News,275967,Example article content
+53,Forbes,2022-02-15,neutral,CEO News,404379,Example article content
+54,Forbes,2022-02-16,negative,Product Launch,290980,Example article content
+55,Forbes,2022-02-23,neutral,Technology,295045,Example article content
+56,TechCrunch,2022-03-22,positive,Politics,85610,Example article content
+57,Reuters,2022-03-31,positive,Technology,409170,Example article content
+58,Forbes,2022-04-04,positive,CEO News,251811,Example article content
+59,Reuters,2022-04-12,neutral,Technology,489824,Example article content
+60,Reuters,2022-04-12,neutral,Technology,192982,Example article content
+61,Forbes,2022-04-12,neutral,CEO News,373552,Example article content
+62,NY Times,2022-04-13,positive,CEO News,443466,Example article content
+63,Forbes,2022-04-25,positive,CEO News,15638,Example article content
+64,CNBC,2022-04-29,positive,Earnings,359839,Example article content
+65,NY Times,2022-05-05,neutral,Politics,60275,Example article content
+66,CNBC,2022-05-09,neutral,CEO News,440086,Example article content
+67,CNBC,2022-05-13,neutral,Earnings,143218,Example article content
+68,Reuters,2022-06-01,neutral,Technology,434740,Example article content
+69,TechCrunch,2022-06-13,positive,Politics,322635,Example article content
+70,Reuters,2022-06-17,positive,Politics,21657,Example article content
+71,TechCrunch,2022-06-28,negative,Politics,348406,Example article content
+72,NY Times,2022-07-01,neutral,Politics,39870,Example article content
+73,NY Times,2022-07-06,negative,Politics,184055,Example article content
+74,CNBC,2022-07-07,positive,Technology,212972,Example article content
+75,NY Times,2022-07-11,positive,Technology,98315,Example article content
+76,CNBC,2022-07-12,positive,Politics,329710,Example article content
+77,CNBC,2022-07-15,neutral,Technology,348113,Example article content
+78,TechCrunch,2022-07-27,positive,Product Launch,301410,Example article content
+79,CNBC,2022-08-02,positive,Earnings,306145,Example article content
+80,CNBC,2022-08-11,positive,Technology,223529,Example article content
+81,TechCrunch,2022-08-16,positive,Technology,191896,Example article content
+82,Reuters,2022-08-25,positive,Technology,304897,Example article content
+83,Forbes,2022-09-01,positive,Earnings,211159,Example article content
+84,CNBC,2022-09-09,neutral,Earnings,440127,Example article content
+85,TechCrunch,2022-09-15,positive,Earnings,163242,Example article content
+86,CNBC,2022-09-19,positive,CEO News,364492,Example article content
+87,TechCrunch,2022-09-23,negative,Earnings,450296,Example article content
+88,TechCrunch,2022-09-26,neutral,Technology,336169,Example article content
+89,Forbes,2022-09-26,neutral,Earnings,254806,Example article content
+90,Reuters,2022-10-18,neutral,Earnings,333519,Example article content
+91,Forbes,2022-10-24,positive,Product Launch,97242,Example article content
+92,CNBC,2022-10-25,neutral,Earnings,23951,Example article content
+93,CNBC,2022-11-28,positive,Product Launch,444418,Example article content
+94,Forbes,2022-12-01,positive,Earnings,79807,Example article content
+95,NY Times,2022-12-05,positive,CEO News,371519,Example article content
+96,Forbes,2022-12-08,positive,Politics,15044,Example article content
+97,Forbes,2022-12-09,negative,Earnings,198836,Example article content
+98,TechCrunch,2022-12-15,positive,Earnings,246386,Example article content
+99,CNBC,2023-01-27,positive,Earnings,164354,Example article content
+100,CNBC,2023-01-30,positive,Technology,451193,Example article content
+101,NY Times,2023-01-31,positive,CEO News,376928,Example article content
+102,NY Times,2023-02-08,neutral,Earnings,97797,Example article content
+103,Reuters,2023-02-14,neutral,Earnings,176303,Example article content
+104,NY Times,2023-02-17,neutral,Politics,332736,Example article content
+105,TechCrunch,2023-02-24,negative,Politics,483071,Example article content
+106,Forbes,2023-03-03,positive,Product Launch,206553,Example article content
+107,Reuters,2023-03-15,positive,Technology,111574,Example article content
+108,Forbes,2023-03-21,positive,Earnings,221838,Example article content
+109,Reuters,2023-03-23,positive,Earnings,14036,Example article content
+110,Forbes,2023-04-27,positive,Technology,240653,Example article content
+111,Forbes,2023-04-28,neutral,CEO News,406024,Example article content
+112,TechCrunch,2023-05-04,negative,Earnings,141627,Example article content
+113,NY Times,2023-05-17,positive,CEO News,234465,Example article content
+114,NY Times,2023-05-31,positive,Product Launch,266565,Example article content
+115,CNBC,2023-06-02,positive,CEO News,302733,Example article content
+116,Reuters,2023-06-16,negative,Product Launch,60024,Example article content
+117,TechCrunch,2023-06-21,neutral,Technology,326288,Example article content
+118,CNBC,2023-06-21,positive,Technology,67118,Example article content
+119,Reuters,2023-07-04,positive,Earnings,18308,Example article content
+120,TechCrunch,2023-07-07,negative,Technology,110377,Example article content
+121,TechCrunch,2023-07-12,positive,Politics,103755,Example article content
+122,Reuters,2023-08-02,neutral,Technology,119408,Example article content
+123,CNBC,2023-08-11,negative,CEO News,34233,Example article content
+124,Forbes,2023-08-28,negative,Technology,370503,Example article content
+125,CNBC,2023-09-06,positive,Technology,32981,Example article content
+126,NY Times,2023-09-18,neutral,Politics,204987,Example article content
+127,CNBC,2023-09-18,negative,Politics,323283,Example article content
+128,NY Times,2023-10-02,neutral,Technology,261573,Example article content
+129,Reuters,2023-10-05,neutral,Politics,55366,Example article content
+130,TechCrunch,2023-10-25,negative,Politics,312172,Example article content
+131,CNBC,2023-11-21,neutral,Politics,146374,Example article content
+132,Forbes,2023-11-23,neutral,Politics,183094,Example article content
+133,CNBC,2023-12-06,neutral,Politics,279182,Example article content
+134,NY Times,2023-12-07,negative,CEO News,438165,Example article content
+135,TechCrunch,2024-01-01,negative,CEO News,384600,Example article content
+136,CNBC,2024-02-07,positive,CEO News,251243,Example article content
+137,Reuters,2024-02-09,neutral,Politics,97601,Example article content
+138,CNBC,2024-02-12,negative,Politics,492410,Example article content
+139,Reuters,2024-02-14,positive,CEO News,256737,Example article content
+140,CNBC,2024-03-21,neutral,Technology,450965,Example article content
+141,TechCrunch,2024-03-22,neutral,Politics,77881,Example article content
+142,NY Times,2024-03-22,positive,CEO News,235851,Example article content
+143,NY Times,2024-04-02,negative,Politics,342304,Example article content
+144,CNBC,2024-04-22,negative,Politics,460891,Example article content
+145,TechCrunch,2024-05-07,negative,Earnings,300449,Example article content
+146,Reuters,2024-05-14,negative,Technology,26429,Example article content
+147,CNBC,2024-05-28,neutral,Earnings,222825,Example article content
+148,Reuters,2024-06-20,positive,Politics,57595,Example article content
+149,Forbes,2024-06-24,negative,CEO News,33991,Example article content
+150,TechCrunch,2024-08-02,neutral,Product Launch,406952,Example article content
+151,Reuters,2024-08-08,positive,Product Launch,495211,Example article content
+152,NY Times,2024-08-14,positive,Earnings,64495,Example article content
+153,CNBC,2024-08-19,neutral,Technology,425920,Example article content
+154,Reuters,2024-08-28,positive,Technology,68465,Example article content
+155,Forbes,2024-08-30,positive,Product Launch,315330,Example article content
+156,Forbes,2024-09-17,neutral,CEO News,188013,Example article content
+157,CNBC,2024-09-19,negative,Technology,225476,Example article content
+158,Reuters,2024-10-01,neutral,Politics,72831,Example article content
+159,TechCrunch,2024-10-16,positive,Product Launch,333798,Example article content
+160,NY Times,2024-11-06,neutral,Politics,454565,Example article content
+161,Reuters,2024-11-07,neutral,Politics,249827,Example article content
+162,Forbes,2024-11-08,neutral,Earnings,256889,Example article content
+163,Forbes,2024-11-14,positive,Product Launch,56048,Example article content
+164,NY Times,2024-11-14,neutral,Technology,6736,Example article content
+165,Forbes,2024-11-18,negative,CEO News,57592,Example article content
+166,CNBC,2024-12-06,neutral,Product Launch,488910,Example article content
+167,TechCrunch,2024-12-09,neutral,CEO News,115714,Example article content
+168,NY Times,2024-12-20,neutral,Earnings,96494,Example article content
+169,Forbes,2024-12-20,negative,Politics,261872,Example article content
+170,NY Times,2024-12-27,neutral,Product Launch,361272,Example article content
+171,Reuters,2025-01-01,positive,Product Launch,141330,Example article content
+172,Forbes,2025-02-03,negative,Earnings,122574,Example article content
+173,NY Times,2025-02-04,positive,Technology,80558,Example article content
+174,CNBC,2025-02-05,negative,Product Launch,338396,Example article content
+175,CNBC,2025-02-06,positive,Technology,308722,Example article content
+176,Forbes,2025-02-12,negative,Product Launch,190936,Example article content
+177,CNBC,2025-02-13,negative,Product Launch,14189,Example article content
+178,CNBC,2025-02-14,positive,Politics,368047,Example article content
+179,NY Times,2025-02-26,neutral,Earnings,387142,Example article content
+180,Reuters,2025-03-07,positive,CEO News,277856,Example article content
+181,TechCrunch,2025-03-12,neutral,Earnings,145589,Example article content
+182,NY Times,2025-03-13,neutral,Technology,425009,Example article content
+183,NY Times,2025-03-13,positive,CEO News,465726,Example article content
+184,NY Times,2025-04-01,neutral,Product Launch,297026,Example article content
+185,TechCrunch,2025-04-17,positive,Politics,293645,Example article content
+186,NY Times,2025-04-22,neutral,Politics,356369,Example article content
+187,Forbes,2025-04-22,positive,Technology,471128,Example article content
+188,TechCrunch,2025-04-28,negative,Earnings,68858,Example article content
+189,TechCrunch,2025-05-05,neutral,CEO News,441090,Example article content
+190,NY Times,2025-05-05,neutral,CEO News,281775,Example article content
+191,NY Times,2025-05-07,neutral,CEO News,317457,Example article content
+192,Reuters,2025-05-09,negative,CEO News,422631,Example article content
+193,NY Times,2025-05-20,positive,Earnings,440566,Example article content
+194,TechCrunch,2025-05-23,neutral,Product Launch,468725,Example article content
+195,Reuters,2025-06-11,neutral,Technology,100914,Example article content
+196,NY Times,2025-06-19,positive,Earnings,89233,Example article content
+197,CNBC,2025-06-30,neutral,CEO News,485496,Example article content
+198,Reuters,2025-07-15,neutral,Earnings,300571,Example article content
+199,CNBC,2025-07-24,negative,CEO News,476141,Example article content

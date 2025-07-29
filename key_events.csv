@@ -1,0 +1,8 @@
+"""event_id"",""event_date"",""event_name"",""event_type"",""content"""
+"""1"",""2020-11-03"",""US Election 2020"",""Wahl"",""Joe Biden elected, impact on EV policy"""
+"""2"",""2021-06-10"",""Model S Plaid Launch"",""Produktlaunch"",""New performance model released"""
+"""3"",""2022-08-16"",""Inflation Reduction Act"",""Politik"",""New E-Auto incentives USA"""
+"""4"",""2022-10-27"",""Elon Musk Twitter Takeover"",""CEO News"",""Social media control implications"""
+"""5"",""2023-11-30"",""Cybertruck Launch"",""Produktlaunch"",""Highly anticipated launch"""
+"""6"",""2024-11-05"",""US Election 2024"",""Wahl"",""Presidential election"""
+"""7"",""2025-01-15"",""Q4 Earnings Release"",""Earnings"",""Strong/weak performance discussion"""
