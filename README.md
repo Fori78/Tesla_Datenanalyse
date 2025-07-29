@@ -46,5 +46,9 @@ Lokales Setup (keine API-Anbindungen)
 Hinweis
 Dieses Projekt dient Lernzwecken und zeigt beispielhaft, wie sich reale Szenarien mit fiktiven Daten simulieren lassen.
 
+Lizenz
+Dieses Projekt steht unter der MIT-Lizenz.
+Du kannst es frei nutzen, verändern und weitergeben.
+
 Kontakt
 Fragen oder Anregungen? Gerne melden!
